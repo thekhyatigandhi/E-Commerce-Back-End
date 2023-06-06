@@ -14,22 +14,22 @@ This is an E-commerce back end for a website where the code syncs Sequalize mode
 
 **Category**
 
-- GET all categories, GET a single category by ID, POST(create) a new category, PUT(update) and existing category by ID, and DELETE an existing category by ID.
+GET all categories, GET a single category by ID, POST(create) a new category, PUT(update) and existing category by ID, and DELETE an existing category by ID.
 
 **Tag**
 
-- GET all tags, GET a single tag by ID, POST(create) a new tag, PUT(update) an existing tag by ID, and DELETE an existing tag by ID.
+GET all tags, GET a single tag by ID, POST(create) a new tag, PUT(update) an existing tag by ID, and DELETE an existing tag by ID.
 
 **Product (including ProductTag)**
 
-- GET all products, GET products by ID, and DELETE products by ID. POST(create) and PUT(update) product routes were provided in starter code.
+GET all products, GET products by ID, and DELETE products by ID. POST(create) and PUT(update) product routes were provided in starter code.
 
-* [Application](#Application)
-* [Technologies Used](#TechnologiesUsed)
-* [Installation](#Installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+- [Application](#Application)
+- [Technologies Used](#TechnologiesUsed)
+- [Installation](#Installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Application
 
