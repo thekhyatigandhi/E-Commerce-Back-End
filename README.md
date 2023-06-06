@@ -33,9 +33,7 @@ GET all products, GET products by ID, and DELETE products by ID. POST(create) an
 
 ## Application
 
-The following animation shows the application's appearance and functionality:
-
-Watch the video for the application set-up in VScode and demonstarted all API routes using Insomnia.
+The following [video] (https://youtu.be/Yw5SnOgDlVI) shows the application's set-up in VScode and demonstarted all API routes using Insomnia.
 
 ## Technologies Used
 
