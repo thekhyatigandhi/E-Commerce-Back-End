@@ -35,6 +35,9 @@ GET all products, GET products by ID, and DELETE products by ID. POST(create) an
 
 The following [video](https://youtu.be/Yw5SnOgDlVI) shows the application's set-up in VScode and demonstarted all API routes using Insomnia.
 
+https://github.com/thekhyatigandhi/E-Commerce-Back-End/assets/125392517/e6371e19-5e57-422e-85e2-81474ad1d8c4
+
+
 ## Technologies Used
 
 MySQL </br>
